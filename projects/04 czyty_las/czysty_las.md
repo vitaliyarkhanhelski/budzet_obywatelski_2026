@@ -1,0 +1,19 @@
+# Wstęp do wniosku projektowego (Wejherowski Budżet Obywatelski)
+
+**Tytuł projektu:** Czysta Kalwaria i Las Przyjaźni – Kompleksowy pakiet antyśmieciowy i poprawa bezpieczeństwa spacerowiczów
+
+**Lokalizacja:** Teren Kalwarii Wejherowskiej oraz przylegający do niej kompleks leśny od strony Osiedla Przyjaźni (w tym główne ciągi spacerowe i wejścia do lasu).
+
+### Opis problemu (Uzasadnienie)
+Kalwaria Wejherowska i przyległe lasy to perły naszego miasta, które niestety toną w śmieciach. W lesie i na szlakach zalegają opony, sterty butelek, niedopałki, psie odchody, a nawet całe worki z odpadami domowymi. Dotychczasowe, sporadyczne akcje sprzątania nie przynoszą długofalowych efektów. Dodatkowym, niezwykle poważnym problemem jest plaga psów puszczanych w lesie luzem bez kagańca, co stanowi bezpośrednie naruszenie art. 166 Kodeksu Wykroczeń oraz przepisów Ustawy o lasach. Stwarza to realne zagrożenie dla spacerowiczów i bawiących się dzieci, a także drastycznie zaburza leśny ekosystem (płoszenie zwierzyny, niszczenie ptasich gniazd). Przez wszechobecny brud i poczucie zagrożenia, ten piękny teren zamienia się w śmietnisko, a mieszkańcy oraz turyści coraz rzadziej chcą go odwiedzać. Potrzebne jest twarde uderzenie w wandali, edukacja i sfinansowanie gruntownej akcji oczyszczania terenu.
+
+### Cel i zakres projektu
+Celem projektu jest całkowite oczyszczenie wskazanego obszaru ze śmieci oraz stworzenie systemu, który poprawi bezpieczeństwo i zablokuje powrót wandalizmu. Projekt zakłada 4 filary:
+
+1. **System prewencji i kar (Fotopułapki i monitoring):** Zakup zaawansowanych, mobilnych fotopułapek (kamer leśnych) dla Straży Miejskiej wraz z gęstym rozmieszczeniem tablic ostrzegawczych ("UWAGA! Teren monitorowany - surowe kary za śmiecenie"). Świadomość nieuchronności mandatu to najskuteczniejszy środek odstraszający.
+2. **Infrastruktura (Zwierzoodporne kosze i edukacja):** Montaż zamykanych, zabezpieczonych przed dzikimi zwierzętami koszy na śmieci na obrzeżach lasu oraz przy głównych wejściach na szlaki Kalwarii. Dodatkowo montaż twardych tablic uświadamiających czas rozkładu poszczególnych odpadów.
+3. **Psia infrastruktura i bezpieczeństwo (Stacje i tablice ostrzegawcze):** Montaż dedykowanych "psich stacji" (z rocznym zapasem woreczków) wyłącznie na styku osiedla i lasu. Ponadto instalacja gęstej sieci wyrazistych tablic przypominających o bezwzględnym nakazie trzymania psa na smyczy (zgodnie z art. 166 Kodeksu Wykroczeń i Ustawą o lasach), pod groźbą surowego mandatu. Jasny komunikat przywróci komfort i poczucie bezpieczeństwa mieszkańcom.
+4. **Specjalistyczna Interwencja Porządkowa (Likwidacja dzikich wysypisk):** Sfinansowanie jednorazowej, profesjonalnej akcji generalnego sprzątania terenu przez wyspecjalizowaną firmę zewnętrzną (lub jako dedykowane, dodatkowe zlecenie dla miejskich służb komunalnych). Środki z BO pokryją ciężkie prace wykraczające poza standardowe, codzienne utrzymanie czystości: namierzenie i całkowitą likwidację dzikich wysypisk śmieci w głębi lasu, wywóz porzuconych opon, gruzu, gabarytów oraz utylizację niebezpiecznych odpadów. Pozwoli to zresetować stan lasu i przygotować go do objęcia nowym systemem monitoringu.
+
+### Ważne uwagi realizacyjne
+Wymagana jest ścisła koordynacja z lokalnym leśniczym (Nadleśnictwem) oraz Strażą Miejską, szczególnie w zakresie wytypowania legalnych i najbardziej potrzebnych miejsc na montaż koszy na śmieci (na styku miasta i lasu) oraz formalnego przekazania fotopułapek służbom. Środki z BO przeznaczone na sprzątanie nie będą służyć "zastępowaniu" codziennych obowiązków miasta, lecz sfinansowaniu jednorazowej, potężnej interwencji specjalistycznej (likwidacja wieloletnich dzikich wysypisk), która przywróci ten obszar mieszkańcom.
