@@ -2,7 +2,7 @@
 
 ![Wejherowo](images/wejherowo.jpg)
 
-Zbiór projektów zgłaszanych do Budżetu Obywatelskiego w Wejherowie na rok 2026.
+Zbiór projektów zgłaszanych do [Budżetu Obywatelskiego](https://wejherowskakarta.pl/pl/budzet-obywatelski) w Wejherowie na rok 2026.
 
 ## Zawartość
 

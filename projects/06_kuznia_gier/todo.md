@@ -1,0 +1,3 @@
+- wniosek biblioteka o udostepnienie miejsca
+- czajnik lub duzy samowar - czy bibliotek udostepni, czy wpisac w koszta...
+- plakat narysowac samim
