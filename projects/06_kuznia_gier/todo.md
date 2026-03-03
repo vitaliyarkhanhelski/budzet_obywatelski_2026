@@ -1,3 +1,3 @@
-- wniosek biblioteka o udostepnienie miejsca
-- czajnik lub duzy samowar - czy bibliotek udostepni, czy wpisac w koszta...
-- plakat narysowac samim
+- [ ] wniosek do Biblioteki o udostępnienie miejsca – do załączenia do formularza
+- [ ] czajnik/ samowar – dopisane w kosztach bufetu (70 zł/spotkanie); ustalić z Biblioteką czy dysponują
+- [ ] plakat – narysować samemu do promocji
