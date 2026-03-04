@@ -16,3 +16,5 @@ Celem projektu jest uspokojenie ruchu kołowego, ochrona pieszych oraz redukcja 
 
 ### Ważne uwagi realizacyjne
 Projektodawca ma świadomość, że instalacja urządzeń bezpieczeństwa ruchu drogowego (radary) musi zostać skonsultowana i zatwierdzona przez zarządcę drogi. Projekt celowo nie uwzględnia fizycznych elementów spowalniających na jezdni (jak wyniesione przejścia), ze względu na bliskość ronda oraz funkcjonującą sygnalizację świetlną, stawiając na bezpieczeństwo pasywne, psychologię i całoroczną zieleń izolacyjną.
+
+Dwa radary uspokoją ruch w obu kierunkach i stworzą "strefę psychologicznego nacisku" na całym tym długim, prostym odcinku. Kierowcy będą widzieli uśmiechniętą lub smutną buźkę niezależnie od tego, w którą stronę jadą.
